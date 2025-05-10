@@ -1,0 +1,13 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-hijau: #00ff00;
+  --color-clifford: #da373d;
+  --font-oleo: 'Oleo Script', system-ui;
+  /* --spacing: 3px; */
+  --font-weight-extrablack: 1000;
+}
+:root {
+  --my-padding: 22.5px;
+  --my-margin: 27.5px;
+}
